@@ -1,4 +1,4 @@
-fn add_five(x: i32) -> i32 {
+fn add_five(x: u32) -> i32 {
     x + 5
 }
 
